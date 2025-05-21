@@ -24,4 +24,3 @@ elif 35.0 <= IMC <= 39.9:
     print(f"Sr {nome} o seu IMC é: {IMC}, Obesidade Grau II. O senhor tem que se cuidar mais")
 else:
     print(f"Sr {nome} o seu IMC é: {IMC}, Obesidade grau 3 (mórbida). O senhor precisa iniciar um tratamento imediatamente")
-    
